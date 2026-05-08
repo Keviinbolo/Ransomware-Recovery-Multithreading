@@ -1,0 +1,8 @@
+DOCUMENTO: contrato_cliente.txt
+FECHA CREACIÓN: Mon May 04 23:25:34 CEST 2026
+==================================================
+
+CONTRATO DE SERVICIOS
+Cliente: Empresa XYZ
+Importe: 50.000€
+Duración: 12 meses

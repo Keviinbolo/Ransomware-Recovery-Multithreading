@@ -1,0 +1,15 @@
+DOCUMENTO: facturas_2025.txt
+FECHA CREACIÓN: Mon May 04 23:25:34 CEST 2026
+==================================================
+
+FACTURAS 2025
+Factura Nº 1: 7046 €
+Factura Nº 2: 4922 €
+Factura Nº 3: 4328 €
+Factura Nº 4: 4444 €
+Factura Nº 5: 4896 €
+Factura Nº 6: 8315 €
+Factura Nº 7: 3130 €
+Factura Nº 8: 1700 €
+Factura Nº 9: 1545 €
+Factura Nº 10: 7596 €

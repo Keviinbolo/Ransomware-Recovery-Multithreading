@@ -1,0 +1,7 @@
+DOCUMENTO: informe_financiero.txt
+FECHA CREACIÓN: Mon May 04 23:25:34 CEST 2026
+==================================================
+
+INFORME FINANCIERO
+Beneficios del primer trimestre: 1.2M €
+Proyecciones anuales: 5.8M €

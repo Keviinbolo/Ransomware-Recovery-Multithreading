@@ -1,0 +1,9 @@
+DOCUMENTO: base_datos_clientes.txt
+FECHA CREACIÓN: Mon May 04 23:25:34 CEST 2026
+==================================================
+
+BASE DE DATOS DE CLIENTES
+Cliente A - Email: clientea@empresa.com
+Cliente B - Email: clienteb@empresa.com
+Cliente C - Email: clientec@empresa.com
+Cliente D - Email: cliented@empresa.com
